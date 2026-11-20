@@ -4,9 +4,9 @@ This repository serves as a structured archive of my smart contract security res
 
 ## Vulnerability & Exploit Index
 
-| ID  | Vulnerability Category           | Target Contract | Severity | PoC Test                 | Audit Report                              |
-| :-- | :------------------------------- | :-------------- | :------- | :----------------------- | :---------------------------------------- |
-| 01  | Reentrancy (Exact Balance Drain) | `src/Bank.sol`  | High     | `test/BankExploit.t.sol` | [Report](./reports/01-reentrancy-bank.md) |
+| ID  | Vulnerability Category           | Target Contract | Severity | PoC Test                 | Audit Report                                  |
+| :-- | :------------------------------- | :-------------- | :------- | :----------------------- | :-------------------------------------------- |
+| 01  | Reentrancy (Exact Balance Drain) | `src/Bank.sol`  | High     | `test/BankExploit.t.sol` | [Report](./src/reports/01-reentrancy-bank.md) |
 
 ## Repository Structure
 
